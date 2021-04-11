@@ -1,7 +1,8 @@
-# myharu
+# Haru
 Daily time schedule
 
 Dependency
 * Visual Studio 2019
-* .NET Framework 4.7.2
-* [Material Design In XAML Toolkit](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit)
+* UWP
+  * Target version: Windows 10, version 2004
+  * Min version: Windows 10, version 1903
